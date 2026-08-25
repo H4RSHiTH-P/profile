@@ -178,7 +178,7 @@ h1 em, h2 em {
 }
 
 .hero-copy {
-    max-width: 640px;
+    max-width: 840px;
     font-size: 18px;
     color: var(--text-secondary);
     line-height: 1.6;
